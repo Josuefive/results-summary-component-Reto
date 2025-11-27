@@ -63,3 +63,11 @@ En este proyecto reforcé mis conocimientos sobre CSS moderno. Algunos de los pu
     grid-template-columns: repeat(2, 1fr);
   }
 }
+```
+```Autor
+```
+GitHub - JosueFive
+
+Frontend Mentor - @JosueFive
+
+
