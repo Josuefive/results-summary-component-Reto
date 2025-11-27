@@ -29,8 +29,8 @@ Los usuarios deben poder:
 
 ### Enlaces
 
-- Solución en GitHub: [./assets/images/screenshot.png)]
-- Sitio en vivo (Live Site): [./disign/desktop-design]
+- Solución en GitHub: [Ver código aquí](https://github.com/Josuefive/results-summary-component-Reto)
+- Sitio en vivo (Live Site): [Ver página web aquí](https://josuefive.github.io/results-summary-component-Reto/)
 
 ## Mi proceso
 
