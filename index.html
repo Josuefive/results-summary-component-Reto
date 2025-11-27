@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <link rel="stylesheet" href="CSS/styles.css">
+  <link rel="icon" type="image/png" sizes="32x32" href="./assets/images/favicon-32x32.png">
+
+  <title>Frontend Mentor | Results summary component</title>
+</head>
+<body>
+
+ <main class="container">
+    <section class="resultados">
+      <h1 class="resultados__titulo">Your Result</h1>
+        <div class="resultados__puntaje">
+          <p class="resultados__numero">76</p>
+          <p class="resultados__sub">of 100</p>
+        </div>
+
+        <h2 class="resultados__subtitulo">Great</h2>
+        <p class="resultados__texto">
+          You scored higher than 65% of the people who have taken these tests.
+        </p>
+    </section>
+
+    <section class="resumen">  
+      <h2 class="resumen__titulo">Summary</h2>
+
+      <ul class="resumen__lista">
+        <li class="resumen__item resumen__item--reaction">
+          <div class="resumen__categoria">
+            <img src="/assets/images/icon-reaction.svg" alt="">
+            <span>Reaction</span>
+          </div>
+
+          <div class="resumen__puntaje--item">
+            <span class="resumen__numeros"> <strong>80</strong> / 100</span>
+          </div>
+        </li> <!-- Reaction -->
+
+        <li class="resumen__item resumen__item--memory">
+          <div class="resumen__categoria">
+            <img src="/assets/images/icon-memory.svg" alt="">
+            <span>Memory</span>
+          </div>
+
+          <div class="resumen__puntaje--item">
+            <span class="resumen__numeros"> <strong>92</strong> / 100</span>
+          </div>
+        </li> <!-- Memory -->
+
+
+        <li class="resumen__item resumen__item--verbal">
+          <div class="resumen__categoria">
+            <img src="/assets/images/icon-verbal.svg" alt="">
+            <span>Verbal</span>
+          </div>
+
+          <div class="resumen__puntaje--item">
+            <span class="resumen__numeros"> <strong>61</strong> / 100</span>
+          </div>
+        </li> <!-- Verbal -->
+
+        <li class="resumen__item resumen__item--visual">
+          <div class="resumen__categoria">
+            <img src="/assets/images/icon-visual.svg" alt="">
+            <span>Visual</span>
+          </div>
+
+          <div class="resumen__puntaje--item">
+            <span class="resumen__numeros"><strong>72</strong> / 100</span>
+          </div>
+        </li> <!-- Visual -->
+      </ul>
+      
+     <button class="resumen__boton">Continue</button> 
+    </section>
+  </main>
+  <footer>
+    <div class="attribution">
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+      Coded by <a href="https://github.com/Josuefive">JosueFive</a>.
+    </div>
+  </footer>
+</body>
+</html>
