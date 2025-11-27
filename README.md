@@ -52,3 +52,14 @@ En este proyecto reforcé mis conocimientos sobre CSS moderno. Algunos de los pu
 .resultados {
   background: linear-gradient(to bottom, var(--light-slate-blue), var(--light-royal-blue));
 }
+```
+2.**Media Queries y Grid:** Puse en práctica el uso de Media Queries para cambiar el diseño. Logré que en móviles la sección se vea en columna y en escritorio se adapte a dos columnas laterales usando Grid.
+
+```css
+
+@media (min-width: 768px) {
+  .container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
