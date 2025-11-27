@@ -29,8 +29,8 @@ Los usuarios deben poder:
 
 ### Enlaces
 
-- Solución en GitHub: [PON AQUÍ EL LINK DE TU REPOSITORIO]
-- Sitio en vivo (Live Site): [PON AQUÍ EL LINK DE GITHUB PAGES]
+- Solución en GitHub: [./assets/images/screenshot.png)]
+- Sitio en vivo (Live Site): [./disign/desktop-design]
 
 ## Mi proceso
 
