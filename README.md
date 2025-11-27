@@ -25,7 +25,7 @@ Los usuarios deben poder:
 ### Captura de pantalla
 
 ![](./assets/images/screenshot.png)
-*(Nota: Asegúrate de tomar una captura de tu web final, guardarla en la carpeta assets/images con el nombre screenshot.png y subirla al repo para que se vea aquí)*
+![](./assets/images/movil.png)
 
 ### Enlaces
 
@@ -40,7 +40,7 @@ Los usuarios deben poder:
 - CSS (Propiedades personalizadas / Variables)
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
+--El metodo BEM para las el nombre de las clases
 
 ### Qué aprendí
 
