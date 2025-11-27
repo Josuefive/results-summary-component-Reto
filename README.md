@@ -40,7 +40,7 @@ Los usuarios deben poder:
 - CSS (Propiedades personalizadas / Variables)
 - Flexbox
 - CSS Grid
---El metodo BEM para las el nombre de las clases
+- El metodo BEM para las el nombre de las clases
 
 ### Qué aprendí
 
